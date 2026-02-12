@@ -8,6 +8,7 @@
 # Difficulty: Easy
 # Date Solved: 12-02-2026
 
+from typing import List
 class Solution:
     def fizzBuzz(self, n: int) -> List[str]:
         ans=[]
